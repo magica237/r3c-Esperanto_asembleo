@@ -468,8 +468,13 @@
         }, 
         {
          "firstgid":5589,
-         "source":"[Base]BaseChip_pipo.tsx"
-        }, 
+         "name":"[Base]BaseChip_pipo",
+         "tilewidth":32,
+         "tileheight":32,
+         "tilecount":1064,
+         "columns":8,
+	 "image":"[Base]BaseChip_pipo.png"
+        },
         {
          "columns":16,
          "firstgid":6653,
