@@ -532,6 +532,18 @@
         {
          "columns":16,
          "firstgid":5589,
+         "name":"[Base]BaseChip_pipo",
+         "tilewidth":32,
+         "tileheight":32,
+         "tilecount":1064,
+         "columns":8,
+	 "imagewidth":256,
+	 "imageheight":4256,
+	 "image":"[Base]BaseChip_pipo.png"
+        },
+        {
+         "columns":16,
+         "firstgid":6653,
          "image":"world-map-starterkit-master\/tiles_png\/structures\/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
